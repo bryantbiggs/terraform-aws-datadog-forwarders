@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [7.1.0](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders/compare/v7.0.1...v7.1.0) (2026-01-08)
+
+### Features
+
+* Add provider meta user-agent ([#61](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders/issues/61)) ([aa1ca12](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders/commit/aa1ca1284671ad84684587c547af0a3fccfbae5e))
+
 ## [7.0.1](https://github.com/terraform-aws-modules/terraform-aws-datadog-forwarders/compare/v7.0.0...v7.0.1) (2025-10-21)
 
 ### Bug Fixes
